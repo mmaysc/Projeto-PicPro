@@ -8,14 +8,19 @@ Layout do aplicativo PicPay desenvolvido com HTML, CSS e JavaScript.
 </ul>
 
 <h2><strong>CORES</strong></h2>
-Verde principal: #228664;
-Verde principal escuro: #1F6F54;
-Branco com transparência(borda cabeçalho): rgba(255, 255, 255, 0.4);
-Branco: #fff;
-Preto: #000;
-Preto com transparência(sombra e borda dos boxes): rgba(0, 0, 0, 0.15);
-Cinza claro(fundo de input): #F4F4F4
-Cinza claro 2(borda de input): #D2D2D2;
+<ul>
+    <li>Verde principal: #228664;</li>
+    <li>Verde principal escuro: #1F6F54;</li>
+    <li>Branco com transparência(borda cabeçalho): rgba(255, 255, 255, 0.4);</li>
+    <li>Branco: #fff;</li>
+    <li>Preto: #000;</li>
+    <li>Preto com transparência(sombra e borda dos boxes): rgba(0, 0, 0, 0.15);</li>
+    <li>Cinza claro(fundo de input): #F4F4F4</li>
+    <li>Cinza claro 2(borda de input): #D2D2D2;</li>
+</ul>
 
 <h2><strong>SOMBRA</strong></h2>
-*box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+<ul>
+    <li>box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);</li>
+<ul>
+        
